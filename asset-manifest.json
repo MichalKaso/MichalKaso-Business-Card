@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/MichalKaso-Business-Card/static/css/main.45da6c56.css",
+    "main.js": "/MichalKaso-Business-Card/static/js/main.b7e13668.js",
+    "static/media/mike.JPG": "/MichalKaso-Business-Card/static/media/mike.12f1b991c3a428597bda.JPG",
+    "index.html": "/MichalKaso-Business-Card/index.html",
+    "main.45da6c56.css.map": "/MichalKaso-Business-Card/static/css/main.45da6c56.css.map",
+    "main.b7e13668.js.map": "/MichalKaso-Business-Card/static/js/main.b7e13668.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.45da6c56.css",
+    "static/js/main.b7e13668.js"
+  ]
+}
